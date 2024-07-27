@@ -1,2 +1,5 @@
--Olá🤠, meu nome é Alex, seja bem vindo ao meu perfil.
--Atualmente fazendo bacharelado em engenharia da computação.
+Atualmente cursando na área computacional de engenharia.
+
+Esse perfil é dedicado a projetos criados *ESPECIFICAMENTE* para a faculdade.
+
+Bem vindo.

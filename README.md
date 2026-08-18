@@ -19,7 +19,7 @@
 Sou um desenvolvedor apaixonado por eletrônica. Uso este espaço para compartilhar meus projetos da faculdade, documentar minha jornada profissional e servir como uma janela para minhas capacidades em desenvolvimento de software e hardware.
 
 - **Atualmente trabalhando no:** **Studyhub** - Um hub de estudos para universitários (estilo Notion). Utiliza PHP, JavaScript e HTML, com integração ao Google Auth e Google Drive servindo como banco de dados do usuário. Também atuo em levantamento de requisitos e versionamento de código.
-- **Pesquisa e Comunidade:** Participante do IEEE-UFG e atualmente escrevendo artigos científicos.
+- **Pesquisa e Comunidade:** Participante do IEEE-UFG e atualmente escrevendo artigos.
 - **Objetivos:** Construir um homelab simples para hospedar serviços locais e aprofundar conhecimentos em redes e servidores.
 - **Idiomas:** Inglês Fluente (C1 pelo MET) e Português (Nativo).
 - **Hobbies:** Eletrônica, montagem e diagnóstico avançado de computadores.

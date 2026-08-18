@@ -35,14 +35,6 @@ Sou um desenvolvedor apaixonado por tecnologia, eletrônica e por entender como 
 
 ---
 
-### Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexWBMaya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=c9d1d9&icon_color=3b82f6" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexWBMaya&layout=compact&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=c9d1d9" alt="Linguagens mais usadas" height="150"/>
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AlexWBMaya&label=Views&color=3b82f6&style=flat-square" alt="Contador de Visualizações" />
 </div>

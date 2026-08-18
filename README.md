@@ -16,7 +16,7 @@
 <br>
 
 ### Sobre mim
-Sou um desenvolvedor apaixonado por tecnologia, eletrônica e por entender como as coisas funcionam por baixo dos panos. Uso este espaço para compartilhar meus projetos da faculdade, documentar minha jornada profissional e servir como uma janela para minhas capacidades em desenvolvimento de software e hardware.
+Sou um desenvolvedor apaixonado por eletrônica. Uso este espaço para compartilhar meus projetos da faculdade, documentar minha jornada profissional e servir como uma janela para minhas capacidades em desenvolvimento de software e hardware.
 
 - **Atualmente trabalhando no:** **Studyhub** - Um hub de estudos para universitários (estilo Notion). Utiliza PHP, JavaScript e HTML, com integração ao Google Auth e Google Drive servindo como banco de dados do usuário. Também atuo em levantamento de requisitos e versionamento de código.
 - **Pesquisa e Comunidade:** Participante do IEEE-UFG e atualmente escrevendo artigos científicos.
